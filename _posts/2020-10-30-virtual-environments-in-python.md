@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Virtual environments in Python
 date: 2020-10-30 
+categories: python
 ---
 
 
