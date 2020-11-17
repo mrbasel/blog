@@ -82,4 +82,4 @@ On Windows:
 
 Thats it. Thanks for reading! 
 
-If you find any mistakes in is article, please let me know.
+If you find any mistakes in this article, please let me know.
